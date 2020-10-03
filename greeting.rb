@@ -1,4 +1,4 @@
-def greeting greeting 
+def greeting 
     hello= "Hello World"
     puts hello
     puts hello
@@ -9,3 +9,5 @@ def greeting greeting
     puts hello
     puts hello
 end
+
+greeting
